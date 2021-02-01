@@ -1,0 +1,445 @@
+<resources>
+    <string name="app_name">OuRecipes</string>
+    <string name="dummy_texte">INGREDIENTS\n\n
+3/4 cup cut French green beans (haricots verts)\n
+3 tablespoons olive oil, divided\n
+1/8 teaspoon salt\n
+1/8 teaspoon pepper\n
+1/4 cup balsamic vinegar\n
+1 ounce dark chocolate candy bar, chopped\n
+1 tablespoon red wine vinegar\n
+4 cups fresh arugula\n
+1 medium pear, peeled and cut into 1/2-inch cubes\n
+1/2 cup frozen pitted sweet cherries, thawed and halved\n
+1/4 cup dried cranberries\n
+3 tablespoons coarsely chopped pecans\n
+1 tablespoon minced dried apricots\n
+2 teaspoons thinly sliced fresh mint leaves\n\n\n
+HOW TO MAKE IT:\n\n
+Heat oven to 350°. In an 8-in. square baking dish, toss beans with 1 tablespoon olive oil, salt and pepper.\n\nRoast until tender, 12-15 minutes. Remove from oven. Toss with balsamic vinegar; refrigerate, covered, 1-1/2 - 2 hours.
+Meanwhile, in a microwave, melt chocolate; stir until smooth.\n\nPulse melted chocolate, red wine vinegar and remaining 2 tablespoons olive oil in a blender until smooth.\n\nDivide arugula evenly between 2 salad bowls. Drizzle with chocolate mixture. Top with pears, cherries, cranberries and beans; sprinkle with pecans, apricots and mint leaves.
+
+</string>
+
+    <string name="dummy_textd">INGREDIENTS\n\n
+4 cups cubed peeled butternut squash (about 1 pound)\n
+1 large onion, chopped\n
+1 tablespoon honey\n
+1/2 teaspoon salt\n
+1/2 teaspoon garlic powder\n
+1/4 teaspoon pepper\n
+1 package (6 ounces) fresh baby spinach\n
+2 cups coarsely chopped iceberg lettuce\n
+1/2 cup shredded fat-free cheddar cheese\n
+6 tablespoons reduced-fat poppy seed salad dressing, divided\n
+1/2 cup seasoned stuffing cubes\n
+1/2 cup dried cranberries\n
+1/4 cup slivered almonds, toasted\n
+4 bacon strips, cooked and crumbled\n\n\n
+HOW TO MAKE IT:\n\n
+Preheat oven to 400°. In a large bowl, toss squash and onion with honey, salt, garlic powder and pepper.\n\nTransfer to a 15x10x1-in. baking pan coated with cooking spray. Bake 20-25 minutes or until vegetables are tender, stirring once.\n\nCool slightly.
+In another bowl, combine spinach, lettuce, cheese and squash mixture.\n\nJust before serving, drizzle with 4 tablespoons dressing and toss to coat.\n\nDivide salad among eight plates; top with stuffing cubes, cranberries, almonds and bacon. Drizzle with remaining dressing.</string>
+
+    <string name="dummy_textc">INGREDIENTS\n\n
+1 bunch romaine, torn (about 8 cups)\n
+1/2 cup pomegranate seeds\n
+1/2 cup chopped pecans or walnuts, toasted\n
+1/2 cup shredded Parmesan cheese\n
+1 large Granny Smith apple, chopped\n
+1 tablespoon lemon juice\n
+1/4 cup olive oil\n
+1/4 cup white wine vinegar\n
+2 tablespoons sugar\n
+1/4 teaspoon salt\n\n\n
+HOW TO MAKE IT:\n\n
+In a large bowl, combine romaine, pomegranate seeds, pecans and cheese.\n\nToss apple with lemon juice and add to salad.\n\n
+In a small bowl, whisk remaining ingredients until blended.\n\nDrizzle over salad; toss to coat. Serve immediately.
+</string>
+
+    <string name="dummy_textb">INGREDIENTS\n\n
+2 packages (6 ounces each) fresh baby spinach\n
+1 medium apple, chopped\n
+1 cup (4 ounces) crumbled feta cheese\n
+1 cup glazed pecans\n
+1/2 cup chopped red onion\n
+1/3 cup dried cranberries\n
+5 bacon strips, cooked and crumbled, optional\n
+DRESSING:\n
+2 tablespoons cider vinegar\n
+1 tablespoon sugar\n
+1/2 teaspoon Dijon mustard\n
+1/8 teaspoon pepper\n
+1/4 cup canola oil\n\n\n
+HOW TO MAKE IT:\n\n
+In a large bowl, combine the first six ingredients; stir in bacon if desired.\n\n
+For dressing, in a small bowl, whisk vinegar, sugar, mustard and pepper until blended.\n\nGradually whisk in oil. Pour over salad; toss to coat.
+</string>
+
+    <string name="dummy_texta">INGREDIENTS\n\n
+6 cups cubed day-old French bread (bite-sized cubes)\n
+3 tablespoons olive oil\n
+1/2 teaspoon chili powder\n
+1/4 teaspoon salt\n
+SALAD:\n
+4 cups cubed peeled butternut squash (1-1/2-inch cubes)\n
+1-1/2 cups sliced fresh mushrooms\n
+1/2 cup olive oil, divided\n
+1/2 teaspoon salt, divided\n
+1/2 teaspoon pepper, divided\n
+6 cups fresh arugula or fresh baby spinach\n
+6 tablespoons sherry vinegar\n
+3 shallots, thinly sliced\n
+1/2 cup salted roasted almonds\n
+6 tablespoons crumbled goat cheese\n\n\n
+HOW TO MAKE IT:\n\n
+Preheat oven to 400°. Toss bread cubes with oil, chili powder and salt. Spread evenly in an ungreased 15x10x1-in. baking pan.\n\nBake until golden brown, about 5 minutes. Transfer to a large bowl; cool.
+In another large bowl, combine squash and mushrooms.\n\nAdd 2 tablespoons oil, 1/4 teaspoon salt and 1/4 teaspoon pepper; toss to coat. Transfer to a greased 15x10x1-in. baking pan.\n\nRoast until tender, 20-25 minutes, stirring occasionally.
+Add arugula and squash mixture to toasted bread. In a small bowl, whisk together vinegar, shallots and remaining oil, salt and pepper.\n\nDrizzle over salad; toss gently to combine. Top with almonds and goat cheese. Serve immediately.</string>
+
+
+    <string name="dummy_text55">INGREDIENTS\n\n
+2/3 cup seasoned bread crumbs, divided\n
+1/3 cup finely chopped onion\n
+2 teaspoons low-sodium Worcestershire sauce\n
+2 teaspoons A.1. steak sauce\n
+1 garlic clove, minced\n
+1/2 teaspoon dried basil\n
+1/2 teaspoon dried oregano\n
+1/4 teaspoon garlic powder\n
+1/4 teaspoon pepper\n
+1 pound extra-lean ground turkey\n
+1-1/2 teaspoons olive oil\n
+SAUCE:\n
+2 tablespoons olive oil\n
+2 tablespoons all-purpose flour\n
+1-1/2 cups reduced-sodium beef broth\n
+1 tablespoon low-sodium Worcestershire sauce\n
+1 tablespoon A.1. steak sauce\n
+1 can (4 ounces) sliced mushrooms, drained\n\n\n
+HOW TO MAKE IT:\n\n
+
+In a large bowl, combine 1/3 cup bread crumbs, onion, Worcestershire sauce, steak sauce, garlic and seasonings.\n\nAdd turkey; mix lightly but thoroughly. Shape into four 1/2-in.-thick oval patties. Place remaining bread crumbs in a shallow bowl.\n\nPress patties into crumbs, patting to help coating adhere.
+In a large nonstick skillet, heat 1-1/2 teaspoons oil over medium heat.\n\nAdd patties; cook 3-4 minutes on each side or until a thermometer reads 165°. Remove from pan.
+In same pan, heat 2 tablespoons oil over medium heat.\n\nStir in flour until smooth; gradually whisk in broth, Worcestershire sauce and steak sauce.\n\nBring to a boil, stirring constantly; cook and stir 1-2 minutes or until thickened. Stir in mushrooms. Return patties to pan.\n\nReduce heat; simmer, covered, 2-3 minutes or until heated through.
+</string>
+
+    <string name="dummy_text44">INGREDIENTS\n\n
+1 boneless beef chuck-eye or other chuck roast (3 to 4 pounds)\n
+2 teaspoons pepper\n
+2 teaspoons salt, divided\n
+2 tablespoons canola oil\n
+2 medium onions, cut into 1-inch pieces\n
+2 celery ribs, chopped\n
+3 garlic cloves, minced\n
+1 tablespoon tomato paste\n
+1 tablespoon minced fresh thyme or 1 teaspoon dried thyme\n
+2 bay leaves\n
+1 cup dry red wine or reduced-sodium beef broth\n
+2 cups reduced-sodium beef broth\n
+1 pound small red potatoes, quartered\n
+4 medium parsnips, peeled and cut into 2-inch pieces\n
+6 medium carrots, cut into 2-inch pieces\n
+1 tablespoon red wine vinegar\n
+2 tablespoons minced fresh parsley\n
+Salt and pepper to taste\n\n\n
+
+
+HOW TO MAKE IT:\n\n
+Preheat oven to 325°. Pat roast dry with a paper towel; tie at 2-in. intervals with kitchen string.\n\nSprinkle roast with pepper and 1-1/2 teaspoons salt. In a Dutch oven, heat oil over medium-high heat. Brown roast on all sides.\n\nRemove from pan.
+Add onions, celery and 1/2 teaspoon salt to the same pan; cook and stir over medium heat 8-10 minutes or until onions are browned.\n\nAdd garlic, tomato paste, thyme and bay leaves; cook and stir 1 minute longer.
+\n\nAdd wine, stirring to loosen browned bits from pan; stir in broth. Return roast to pan. Arrange potatoes, parsnips and carrots around roast; bring to a boil.\n\nBake, covered, until meat is fork-tender, 2-2-1/2 hours.
+Remove roast and vegetables from pan; keep warm. Discard bay leaves; skim fat from cooking juices.\n\nOn stovetop, bring juices to a boil; cook until liquid is reduced by half (about 1-1/2 cups), 10-12 minutes.\n\nStir in vinegar and parsley; season with salt and pepper to taste.
+Remove string from roast. Serve with vegetables and sauce.</string>
+
+    <string name="dummy_text33">INGREDIENTS\n\n
+2 medium zucchini (about 8 inches)\n
+3/4 pound ground beef\n
+1 small onion, chopped\n
+1/2 cup chopped fresh mushrooms\n
+1/2 cup chopped sweet red pepper\n
+1/2 cup chopped green pepper\n
+1 cup shredded cheddar cheese, divided\n
+2 tablespoons ketchup\n
+Salt and pepper to taste\n\n\n
+HOW TO MAKE IT:\n\n
+
+Trim the ends off zucchini. Cut zucchini in half lengthwise; scoop out pulp, leaving 1/2-in. shells.\n\nFinely chop pulp.
+In a skillet, cook beef, zucchini pulp, onion, mushrooms and peppers over medium heat until meat is no longer pink; drain.\n\nRemove from the heat. Add 1/2 cup cheese, ketchup, salt and pepper; mix well. Spoon into the zucchini shells. Place in a greased 13x9-in. baking dish.\n\nSprinkle with remaining cheese.
+Bake, uncovered, at 350° until zucchini is tender, 25-30 minutes.</string>
+
+    <string name="dummy_text22">INGREDIENTS\n\n
+2 large eggs, lightly beaten\n
+1 cup pizza sauce, divided\n
+1 cup seasoned bread crumbs\n
+1 medium onion, chopped\n
+1 medium green pepper, chopped\n
+1 teaspoon dried oregano\n
+1 garlic clove, minced\n
+1/2 teaspoon salt\n
+1/4 teaspoon pepper\n
+2 pounds lean ground beef (90% lean)\n
+1 pound bulk Italian sausage\n
+1/2 pound sliced deli ham\n
+2 cups shredded part-skim mozzarella cheese, divided\n
+1 jar (6 ounces) sliced mushrooms, drained\n\n\n
+
+HOW TO MAKE IT:\n\n
+
+Preheat oven to 375°. In a large bowl, combine the eggs, 3/4 cup pizza sauce, bread crumbs, onion, green pepper, oregano, garlic, salt and pepper.\n\nCrumble beef and sausage over mixture and mix well.
+On a piece of parchment, pat beef mixture into a 12x10-in. rectangle.\n\nLayer the ham, 1-1/2 cups cheese and mushrooms over beef mixture to within 1 in. of edges. Roll up jelly-roll style, starting with a short side and peeling parchment away as you roll. Seal seam and ends.\n\nPlace seam side down in a greased 13x9-in. baking dish; brush with remaining pizza sauce.
+Bake, uncovered, 1 hour.\n\nSprinkle with remaining cheese. Bake until no pink remains and a thermometer reads 160°, 15-20 minutes longer.\n\nUsing 2 large spatulas, carefully transfer meat loaf to a serving platter.
+Freeze option: Securely wrap and freeze cooled baked meat loaf in foil.\n\nTo use, partially thaw in refrigerator overnight. Unwrap meat loaf; reheat on a greased shallow baking pan in a preheated 350° oven until heated through and a thermometer inserted in center reads 165°.
+
+</string>
+
+    <string name="dummy_text11">INGREDIENTS\n\n
+3 slices bread\n
+1 large egg, lightly beaten\n
+2/3 cup 2% milk\n
+1 cup shredded cheddar cheese\n
+1 medium onion, finely chopped\n
+1/2 cup finely shredded carrot\n
+1 teaspoon salt\n
+1/4 teaspoon pepper\n
+1-1/2 pounds ground beef\n
+GLAZE:\n
+1/4 cup packed brown sugar\n
+1/4 cup ketchup\n
+1 tablespoon prepared mustard\n\n\n
+
+HOW TO MAKE IT:\n\n
+Preheat oven to 350°. Tear bread into 2-inch pieces; place in a blender. Cover and pulse to form coarse crumbs; transfer to a large bowl.\n\nStir in egg, milk, cheese, onion, carrot, salt and pepper. Add beef; mix lightly but thoroughly. Transfer to a greased 9x5-in. loaf pan.\n\n
+In a small bowl, mix glaze ingredients; spread over loaf. Bake 60-75 minutes or until a thermometer reads 160°. Let stand 10 minutes before slicing.\n\n
+Freeze option: Bake meat loaf without glaze. Securely wrap cooled meat loaf in foil, then freeze.\n\nTo use, partially thaw meat loaf in refrigerator overnight.\n\nPrepare and spread glaze over top; reheat on a greased shallow baking pan in a preheated 350° oven until heated through and a thermometer inserted in center reads 165°.</string>
+
+
+    <string name="dummy_text5">INGREDIENTS\n\n
+500 g beef, sirloin, sliced tapa-style into five and pounded\n
+1 1/2 Tbsp soy sauce\n
+1/8 tsp pepper, black\n
+1 1/2 slice sweet ham, cooked and divided into five\n
+1/2 cup cheddar cheese, cut into five sticks\n
+3 Tbsp oil\n
+1 cup onion, sliced\n
+1 pc beef bouillon cube\n
+1 pouch Filipino Style Tomato Sauce (250g)\n
+3/4 cup water\n
+1 pc corn, yellow, cut into five pieces\n
+1 tsp cornstarch, mixed with 2 teaspoons of water\n\n\n
+HOW TO MAKE IT:\n\n
+
+Season beef in soy sauce and pepper.\n\n
+Place on each slice of beef a piece of cooked ham and cheese. Roll and secure with toothpicks. Brown in oil. Set aside.\n\n
+In the same pan, saute onions. Add beef bouillon cube, DEL MONTE Filipino Style Tomato Sauce and water. Bring to a boil. Add beef rolls and simmer for 5 minutes or until tender. Add corn and cornstarch mixture. Simmer until thick.
+
+</string>
+
+    <string name="dummy_text4">INGREDIENTS\n\n
+900 g beef, shortribs, cut into serving portions\n
+2 1/2 Tbsp olive oil\n
+1/8 cup garlic, crushed\n
+1/4 Tbsp peppercorn, crushed\n
+1/8 cup soy sauce\n
+2 1/2 Tbsp olive oil\n
+1/3 cup onion, sliced\n
+1 pc siling labuyo, sliced\n
+2 1/2 Tbsp liver spread\n
+1 pouch DEL MONTE Original Style Tomato Sauce (250g)\n
+1 1/4 cup water\n
+1 pc bay leaf/laurel leaf\n
+1 cup potato, cut into chunks\n
+1/3 cup green olives, pitted\n
+1 pc whole pickle, sliced crosswise\n
+1/2 cup bell pepper, red, cut into strips\n
+1/2 cup bell pepper, green, cut into strips\n
+3/4 cup green peas, frozen\n
+1/4 cup cheese, grated\n\n\n
+
+
+HOW TO MAKE IT:\n\n
+Saute garlic, onion and beef until beef turns light brown. Add liver spread and water. Bring to a boil then simmer for 2-3 hours or until beef is tender.\n\n
+
+Add DEL MONTE Original Style Tomato Sauce, potato, laurel leaf, salt, pepper and siling labuyo. Bring to a boil and turn down heat to simmer. Cook for 10 minutes.\n\n
+
+Add green peas, bell peppers and cheese. Bring to a boil then simmer for 15 minutes or until vegetables are tender. </string>
+
+
+    <string name="dummy_text3">INGREDIENTS\n\n
+1 kg dalagang bukid\n
+1 1/2 tsp salt, rock\n
+3/4 tsp pepper, black\n
+1/4 cup all-purpose flour\n
+oil, for deep frying\n
+2 Tbsp oil\n
+1/2 cup onion, red, quartered\n
+1/4 cup vinegar\n
+1/2 cup DEL MONTE Extra Rich Banana Ketchup (320g)\n
+1 pouch DEL MONTE Pineapple Tidbits (115g), drained, reserve syrup\n
+2 Tbsp soy sauce\n
+3 Tbsp sugar, white\n\n\n
+
+        HOW TO MAKE IT:\n\n
+
+Season fish with salt and pepper. Dredge in flour. Deep-fry in oil until crispy.\n\n
+
+In a separate pan, heat the oil. Sauté onions for 1 minute. Remove from the pan and set aside.\n\n
+
+Add the vinegar, ketchup, reserved pineapple syrup, soy sauce, and sugar. Simmer while stirring continuously until thick.\n\n
+
+Add the  Pineapple Tidbits and onions. Pour over fried fish. Serve.</string>
+
+    <string name="dummy_text2">INGREDIENTS\n\n
+2 Tbsp oil\n
+2 Tbsp garlic, crushed\n
+2 Tbsp onion, red, sliced\n
+300 g chicken, thigh, bone in\n
+1/3 cup water\n
+1/2 tsp salt\n
+2/3 cup potato, cut into chunks\n
+1 cup carrot, cut into chunks\n
+1 pouch DEL MONTE Filipino Style Tomato Sauce (200g)\n
+1/4 cup Baguio beans, sliced into 2-inch long\n
+1/3 cup bell pepper, red, cut into 2-inch strips\n
+12 pcs quail eggs, hard-boiled and shelled (optional)\n\n\n
+
+HOW TO MAKE IT:\n\n
+Saute garlic, onion, and chicken. Add water and salt. Bring to a boil then simmer for 10 minutes.\n\n
+Add potatoes and carrot. Simmer for another 10 minutes. Add Filipino Style Tomato Sauce and simmer for 10 minutes. Add Baguio beans, bell pepper, and quail eggs, if desired. Simmer for 5 minutes.\n\n
+
+Lusog Notes This Classic Afritada recipe is rich in vitamin A that promotes normal growth and development as well as protect one from infections. \n\nIt is also a source of niacin which helps suppress inflammation and helps improve circulation.\n\n
+
+Chefs Tip Overcooked vegetables become mushy. Pierce potato with a fork. It is cooked if the fork slides in easily.
+</string>
+
+
+    <string name="dummy_text1">INGREDIENTS\n\n
+
+canola oil\n
+2 saba bananas, peeled and cut into chunks\n
+2 medium potatoes, peeled and quartered\n
+1 large carrot, peeled and cut into chunks\n
+2 pieces Chorizo de bilbao, cut into chunks\n
+1 onion, peeled and chopped\n
+2 cloves garlic, peeled and minced\n
+2 pounds pork belly, cut into 2-inch cubes\n
+2 medium tomatoes, chopped\n
+1 tablespoon fish sauce\n
+4 cups water\n
+1 can (42 ounces) pork and beans\n
+2 bunches pechay, ends trimmed and leaves separated\n
+salt and pepper to taste\n
+8 pieces green beans (Bagiuo beans), ends trimmed\n\n\n
+
+HOW TO MAKE IT:\n\n
+
+In a deep pot over medium heat, heat about 2 tablespoons of oil.Add saba bananas and cook, turning as needed, until lightly browned. Remove from pan and drain on paper towels.\n\n
+
+Add potatoes and carrots and cook until lightly browned. Remove from pan and drain on paper towels.\n\n
+
+Add Chorizo de bilbao and cook until lightly browned. Remove from pan and drain on paper towels.\n\n
+
+Remove excess oil except for about 1 tablespoon. Add onions and garlic and cook until softened.\n\n
+
+Add pork belly and cook until lightly browned.\n\n
+
+Add tomatoes and cook, mashing with the back of a spoon, until softened and release juices.\n\n
+
+Add fish sauce and cook for about 1 to 2 minutes.\n\n
+
+Add water and bring to a boil, skimming scum that floats on top.\n\n
+
+Lower heat, cover and simmer for about 20 to 30 minutes or until meat is tender.\n\n
+
+Add pork and beans, potatoes, carrots, and Chorizo de bilbao. Continue to simmer until vegetables are tender.\n\n
+
+Add green beans and saba bananas and cook for about 2 to 3 minutes.\n\n
+
+Add pechay and cook for another minute.\n\n
+
+Season with salt and pepper to taste. Serve hot.</string>
+
+
+    <string name="dummy_textone"><center>INGREDIENTS</center>\n\n 0.25 cup (2 ounces) tub light cream cheese
+1 tablespoon chopped fresh basil\n\n
+1 teaspoon Dijon mustard\n\n
+0.25 teaspoon freshly ground black pepper\n\n
+8 (1-ounce) slices whole wheat bread\n\n
+4 ounces low-fat deli ham\n\n
+8 (1/4-inch-thick) slices tomato (about 1 large)\n\n
+        0.25 cup (2 ounces) shredded reduced-fat sharp cheddar cheese\n\n<center>HOW TO MAKE:</center>\n\nPreheat broiler
+Combine first 4 ingredients in small bowl; stir well.
+Spread about 1 tablespoon cream cheese mixture over each of 4 bread slices.\n\n Top each with 1 ounce ham, 2 tomato slices, and 1 tablespoon cheddar cheese.\n\n Place sandwich halves and remaining 4 slices bread on a baking sheet.\n\n Broil 2 minutes or until cheese is melted and bread is lightly browned.\n\n Top each sandwich half with remaining bread slice.\n\n Serve immediately.
+</string>
+
+    <string name="dummy_texttwo">INGREDIENTS\n\n
+
+1 teaspoon olive oil\n\n
+1 tablespoon minced onion\n\n
+1/4 cup finely diced potatoes (from 1 small red or yellow potato)\n\n
+1/4 cup finely diced corned beef\n\n
+A few pinches of salt\n\n
+1 teaspoon unsalted butter\n\n
+2 large eggs\n\n
+2 tablespoons milk\n\n
+2 tablespoons grated Parmesan cheese\n\n
+Pinch of salt and pepper\n\n
+Fresh parsley, garnish\n\n
+
+HOW TO MAKE IT:\n\n
+
+Cook the corned beef hash Grate the cheese Now its time for eggs!Add the eggs to the skillet with some melted butter.\n\n
+Push the cooked eggs to the center with a spatula as you tilt the pan.\n\n The uncooked eggs will flow to the outer edges of the pan and cook.\n\n
+Dont worry about flipping the eggs. When they’re mostly cooked, fill and fold the omelet.\n\n Any uncooked egg will cook from the residual heat.</string>
+
+
+    <string name="dummy_textthree">INGREDIENTS\n\n
+
+0.5 kg Fresh Grounded Pork\n
+1 pc Onion\n
+4 cloves Garlic\n
+1 sachet MAGGI Supreme Sarap \n
+0.25 tsp Ground Pepper\n
+2 tbsp Vegetable Oil\n
+4 cloves Garlic\n
+3 tbsp White Vinegar\n
+1 cup Water\n
+2 pcs Bay Leaf\n\n
+
+HOW TO MAKE IT:\n\n
+
+15 Min Combine ground pork, onion, minced garlic and ½ sachet of MAGGI Supreme Sarap.\n\n Mix well and for into 1 ½ tbsp meatballs. \n\nSet aside. (15mins)
+10 Minutes meatballs in oil until golden brown.\n\n Remove and set aside. (10mins)
+\n\n15 Min
+Add crushed garlic in the same pan and saute until light golden brown.\n\n Pour vinegar. Stir in water and remaining ½ sachet of MAGGI Supreme Sarap.\n\n Add back sauteed meatballs and bay leaf. Simmer for 10 minutes.(15mins)
+\n\n1 Min Transfer on a serving plate and serve. (1min)</string>
+
+    <string name="dummy_textfour">INGREDIENTS\n\n
+
+3 hard-boiled eggs, cut into small cubes\n\n
+1 pack 220mL Ladys Choice Real Mayonnaise\n\n
+salt and pepper, to taste\n\n
+slices white bread, toasted\n\n
+
+HOW TO MAKE IT:\n\n
+
+Combine all ingredients in a bowl. Mix well. Adjust seasonings according to taste.\n\n
+Spread mixture on bread evenly then cover with another slice.</string>
+
+    <string name="dummy_textfive">INGREDIENTS\n\n
+
+2 cups all-purpose flour\n
+2 tablespoons white sugar\n
+2 teaspoons baking powder\n
+1 teaspoon baking soda\n
+½ teaspoon salt\n
+2 cups low-fat buttermilk\n
+⅓ cup melted butter\n
+2 large eggs, lightly beaten\n
+1 teaspoon vanilla extract\n\n
+
+HOW TO MAKE IT:\n\n
+
+Whisk flour, sugar, baking powder, baking soda, and salt together in a bowl until evenly combined.\n\nWhisk buttermilk and butter together in a separate bowl; add eggs.\n\nStir buttermilk mixture into flour mixture until just combined and batter is slightly lumpy; add vanilla extract.\n\n
+Preheat a waffle iron according to manufacturers instructions.\n\nPour enough batter into the preheated waffle iron to reach 1/2 inch from the edge.\n\nCook according to manufacturers instructions.</string>
+
+</resources>

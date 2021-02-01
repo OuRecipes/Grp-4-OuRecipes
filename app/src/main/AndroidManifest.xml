@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.finalapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="OuRecipes"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ViewRecordActivity"></activity>
+        <activity android:name=".MyActivity" />
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".Salad5Activity" />
+        <activity android:name=".Salad4Activity" />
+        <activity android:name=".Salad3Activity" />
+        <activity android:name=".Salad2Activity" />
+        <activity android:name=".Salad1Activity" />
+        <activity android:name=".Dinner5Activity" />
+        <activity android:name=".Dinner4Activity" />
+        <activity android:name=".Dinner3Activity" />
+        <activity android:name=".Dinner2Activity" />
+        <activity android:name=".Dinner1Activity" />
+        <activity android:name=".Lunch5Activity" />
+        <activity android:name=".Lunch4Activity" />
+        <activity android:name=".Lunch3Activity" />
+        <activity android:name=".Lunch2Activity" />
+        <activity android:name=".Lunch1Activity" />
+        <activity android:name=".Bfast5Activity" />
+        <activity android:name=".Bfast4Activity" />
+        <activity android:name=".Bfast3Activity" />
+        <activity android:name=".Bfast2Activity" />
+        <activity android:name=".Bfast1Aactivity" />
+        <activity android:name=".OurActivity" />
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

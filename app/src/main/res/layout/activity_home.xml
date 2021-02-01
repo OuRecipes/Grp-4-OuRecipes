@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:gravity="center"
+    tools:context=".HomeActivity">
+
+
+    <Button
+        android:id="@+id/my"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:backgroundTint="@android:color/holo_orange_dark"
+        android:text=" MY RECIPES "
+        android:fontFamily="@font/baloo_tamma"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"/>
+    <Button
+        android:id="@+id/our"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button"
+        android:backgroundTint="@android:color/holo_orange_dark"
+        android:text=" OURECIPES "
+        android:fontFamily="@font/baloo_tamma"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"/>
+    <Button
+        android:id="@+id/about"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@android:color/holo_orange_dark"
+        android:text="ABOUT"
+
+        android:fontFamily="@font/baloo_tamma"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"/>
+
+</LinearLayout>

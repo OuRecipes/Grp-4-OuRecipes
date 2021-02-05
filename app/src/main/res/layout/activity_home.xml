@@ -9,6 +9,12 @@
     android:gravity="center"
     tools:context=".HomeActivity">
 
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/logo"/>
+
 
     <Button
         android:id="@+id/my"

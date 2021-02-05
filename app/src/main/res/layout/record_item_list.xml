@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:orientation="vertical"
-    android:layout_height="wrap_content"
+    android:layout_height="match_parent"
     android:layout_marginBottom="10dp"
-    android:gravity="center"
     android:padding="5dp"
+    android:gravity="center"
     android:background="@android:color/white"
     app:layout_constraintCircleRadius="20dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="15dp"
+        android:layout_centerVertical="true">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/button"
+        android:layout_marginTop="5dp"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+
+
 
     <TextView
         android:textColor="#000"
@@ -20,46 +37,76 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="RECIPE NAME"
-        android:textColor="@android:color/black"
-        android:layout_marginLeft="40dp"
-        android:layout_gravity="left"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/button_update"
+                android:layout_width="30dp"
+                android:layout_height="31dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@android:color/white"
+                android:textSize="18dp"
+                android:background="@drawable/update" />
+
+            <Button
+                android:id="@+id/button_delete"
+                android:layout_width="30dp"
+                android:layout_height="31dp"
+                android:textColor="@android:color/white"
+                android:textSize="18dp"
+                android:background="@drawable/delete" />
+
+
+        </LinearLayout>
+
     <EditText
-        android:textColor="#000"
         android:id="@+id/edittext_studentid"
         android:text="Recipe Name"
         android:layout_margin="5dp"
-        android:textSize="15sp"
-        android:layout_width="280dp"
-        android:layout_height="wrap_content"
-        android:backgroundTint="@color/colorPrimaryDark"/>
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:fontFamily="@font/baloo_tamma"
+        android:layout_width="match_parent"
+        android:textColor="@android:color/holo_orange_dark"
+        android:layout_height="wrap_content" />
+
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:gravity="left"
+        android:layout_margin="5dp"
         android:text="INGREDIENTS"
+        android:textSize="16sp"
+        android:fontFamily="@font/comfortaa_light"
         android:textColor="@android:color/black"
-        android:layout_marginLeft="40dp"
         android:layout_gravity="left"/>
 
     <EditText
         android:textColor="#000"
         android:id="@+id/edittext_fullname"
         android:text="Ingredients"
+        android:fontFamily="@font/comfortaa_light"
         android:layout_margin="5dp"
-        android:textSize="15sp"
-        android:layout_width="280dp"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/colorPrimaryDark"/>
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="HOW TO MAKE IT:"
+        android:layout_margin="5dp"
+        android:textSize="16sp"
         android:textColor="@android:color/black"
-        android:layout_marginLeft="40dp"
+        android:fontFamily="@font/comfortaa_light"
         android:layout_gravity="left"/>
 
     <EditText
@@ -67,39 +114,13 @@
         android:id="@+id/edittext_address"
         android:text="Procedure"
         android:layout_margin="5dp"
-        android:textSize="15sp"
-        android:layout_width="280dp"
+        android:fontFamily="@font/comfortaa_light"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/colorPrimaryDark"/>
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:gravity="center">
-
-        <Button
-            android:id="@+id/button_update"
-            android:layout_width="120dp"
-            android:layout_height="30dp"
-            android:layout_marginRight="10dp"
-            android:text="UPDATE"
-            android:textColor="@android:color/white"
-            android:textSize="18dp"
-            android:background="@drawable/button"
-            android:backgroundTint="@android:color/holo_blue_light"/>
-
-        <Button
-            android:id="@+id/button_delete"
-            android:layout_width="120dp"
-            android:layout_height="30dp"
-            android:text="DELETE"
-            android:textColor="@android:color/white"
-            android:textSize="18dp"
-            android:background="@drawable/button"
-            android:backgroundTint="@android:color/holo_red_light"/>
-
 
     </LinearLayout>
-
-</LinearLayout>
+    </ScrollView>
+</RelativeLayout>

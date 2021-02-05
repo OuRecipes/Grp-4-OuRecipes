@@ -19,7 +19,7 @@ public class ViewRecordActivity extends AppCompatActivity {
         setContentView(R.layout.activity_view_record);
 
         recyclerView = findViewById(R.id.recyclerView);
-        recyclerView.setLayoutManager(new LinearLayoutManager(this));
+        recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL  ,  false));
         recyclerView.setHasFixedSize(true);
 
         DatabaseHelperClass databaseHelperClass = new DatabaseHelperClass(this);
